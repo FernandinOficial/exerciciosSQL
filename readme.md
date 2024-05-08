@@ -1,0 +1,1 @@
+## tudo esta listado nos exercicios realizados nos arquivos SQL
